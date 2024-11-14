@@ -40,6 +40,6 @@ I am a highly motivated individual with a strong interest in web development, al
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mxidev"><img src="https://github-readme-stats.vercel.app/api?username=mxidev&show_icons=true&hide=issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="mxidev's GitHub stats" /></a>
+<a href="http://www.github.com/mxidev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxidev&show_icons=true&hide=issues,&count_private=true&hide_border=false&show_icons=true&theme=github_dark" alt="mxidev's GitHub stats" /></a>
 
-<a href="https://github.com/mxidev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxidev&langs_count=5&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mxidev" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxidev&langs_count=6&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" /></a>
