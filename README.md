@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maximiliano Tapia
 =========================================================================================================================================
 
-Computer Science student at UTFSM
+Computer Science Bachelor Degree at UTFSM
 ---------------------------------
 
 I am a highly motivated individual with a strong interest in web development, always seeking opportunities to learn and enhance my skills. I am adept at collaborating in teams, and quickly adapting to new technologies and challenges. I am committed to contributing positively to any team and to continuing my professional growth in a dynamic and ever-evolving environment. I enjoy working with multidisciplinary teams, ensuring high-quality deliverables with significant value.
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [max.tapia2001@gmail.com](mailto:max.tapia2001@gmail.com)
-* 🚀  I'm currently working on [GeoTMM](http://geotmm.cl)
+* 🚀  I'm currently working at IBM Chile as Application Developer - Cloud Integration
 * 🤝  I'm open to collaborating on Web Development (Fullstack)
 
 ### Skills
@@ -18,7 +18,8 @@ I am a highly motivated individual with a strong interest in web development, al
   <img alt="python" src="https://img.shields.io/badge/-Python?style=flat-square&logo=python&logoColor=white&label=Python&labelColor=297bff&color=297bff">
   <img alt="cpp" src="https://img.shields.io/badge/-C%2B%2B?style=flat-square&logo=c%2B%2B&logoColor=white&label=C%2B%2B&labelColor=a1c4ff&color=a1c4ff">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS?style=flat-square&logo=css3&logoColor=white&label=CSS3&labelColor=blue&color=blue">
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS?style=flat-square&logo=css&logoColor=white&label=CSS3&labelColor=blue&color=blue">
   <img alt="js" src="https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript&logoColor=white&label=Javascript&labelColor=yellow&color=yellow">
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
